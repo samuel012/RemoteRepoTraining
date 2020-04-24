@@ -4,3 +4,4 @@ Planned Trips After ECQ
  - [ ] Free Lunch for new hires
  - [ ] SamgyupSalamat
  - [ ] Cebu North - Bantayan
+ - [ ] Oslob
